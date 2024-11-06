@@ -14,8 +14,6 @@ A simple, responsive portfolio website created using HTML and basic CSS. This pr
 - **HTML**: Structure and content.
 - **CSS**: Styling and layout.
 
-## Installation
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Sridev-97/portfolio-simple-website.git
+
+
